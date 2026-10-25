@@ -1,26 +1,61 @@
 # Joinyard
 
-**Find your next community.**
+**Find your Root community.**
 
-Root 커뮤니티를 발견하고 소개하는 독립 디렉터리입니다. 흩어져 있는 커뮤니티 정보를 한곳에서 살펴보고, 운영자가 자신의 공간을 더 잘 보여줄 수 있는 경험을 만들고 있습니다.
+[Explore Joinyard](https://joinyard.app/en) · [Image tools](https://joinyard.app/en/asset-maker) · [Updates](https://joinyard.app/en/announcements?kind=UPDATE) · [한국어](./README.ko.md)
 
-### Promo video
+Joinyard helps you discover Root communities and get your own community found. Browse by interest and language, explore community pages, and follow a Root invitation to join.
 
-[▶ Joinyard 25초 소개 영상 보기](https://github.com/YHS-Sec/joinyard-showcase/raw/refs/heads/main/media/joinyard-promo.mp4) · [영상 파일](./media/joinyard-promo.mp4)
+**Live in public beta at [joinyard.app](https://joinyard.app/en).**
 
-> **Status — In development**  
-> Joinyard는 현재 개발 중입니다. 공개 서비스와 데모는 아직 제공하지 않습니다.
+## Joinyard in 25 seconds
 
----
+[![Watch the Joinyard promo — English narration, captions and motion graphics](./media/joinyard-promo-v2-poster.jpg)](./media/joinyard-promo-v2-motion-voice.mp4)
 
-### What I'm building
+**[Watch V2 — English narration + motion graphics](./media/joinyard-promo-v2-motion-voice.mp4)**
 
-| Discover | Share | Manage |
-| :-- | :-- | :-- |
-| 관심사에 맞는 커뮤니티 탐색 | 커뮤니티 소개와 소식 | 등록 및 운영 흐름 |
+25 seconds · 1080p · English captions · [Subtitle file](./media/joinyard-promo-v2.en.srt)
 
-### About this repository
+[Watch V1 — music-only version](./media/joinyard-promo.mp4)
 
-이 저장소는 Joinyard를 소개하는 공개용 페이지입니다. 실제 서비스의 소스 코드, 운영 설정, 사용자 데이터는 포함하지 않습니다. 개발 상태가 바뀌면 이 페이지도 업데이트할 예정입니다.
+## Discover. Promote. Create.
 
-**Created by [YHS-Sec](https://github.com/YHS-Sec)**
+| | What you can do |
+| :-- | :-- |
+| **Discover communities** | Search by name and filter by category, language or tags. Read introductions and open Root invitations. Browsing does not require an account. |
+| **Share your community** | Sign in to submit a listing, tell people what your community is about, and manage its introduction and invitation link. |
+| **Promote with Bump** | Move your published community up on Joinyard from the website, Joinyard Bot or Joinyard App. All three share one six-hour cooldown. |
+| **Create community artwork** | Make matching channel icons and artwork with Image tools. Customize layers and colors, then download PNG files or a ZIP set. Sign-in is required for editing and downloads. |
+
+## Website, Bot and App
+
+- **Website:** discover communities, manage listings, use Image tools and Bump from your browser.
+- **Joinyard Bot:** use `/bump` to promote a connected community on the **Joinyard website**, and `/status` to check its availability.
+- **Joinyard App:** Bump and check availability from a compact interface inside Root. Discovery and Image tools open on the website.
+
+Both the Bot and App are available in the Root App Store. Search for **Joinyard** in Root to find them.
+
+The Bot and App are optional. You can list and Bump a community on the website without installing either. Community owners set up each connection separately; once connected, members can Bump. A Bump from any connected option updates the same website state and cooldown.
+
+## Getting started
+
+1. **Find a community:** browse [Joinyard](https://joinyard.app/en), choose a community and open its Root invitation.
+2. **Share your own:** sign in and select **Submit a community** to create your listing.
+3. **Help it get found:** Bump a published listing on the website, or connect the optional Bot or App through **My communities**.
+
+The website supports **English, 简体中文, Español, Français, Русский, 한국어, 日本語 and Bahasa Melayu**.
+
+## Links
+
+- [Visit Joinyard](https://joinyard.app/en)
+- [Image tools](https://joinyard.app/en/asset-maker)
+- [Latest updates](https://joinyard.app/en/announcements?kind=UPDATE)
+- [Joinyard's official Root community](https://rootapp.gg/ADH0d_PegQqPVEQY6-Jf2w)
+- [Privacy policy](https://joinyard.app/en/privacy) · [Terms of service](https://joinyard.app/en/terms)
+- Support: [support@joinyard.app](mailto:support@joinyard.app)
+
+## About this repository
+
+This is Joinyard's public showcase, containing product information and promotional media. It is not the application's source-code repository.
+
+Created by [YHS-Sec](https://github.com/YHS-Sec). Joinyard is not affiliated with or endorsed by Root.
