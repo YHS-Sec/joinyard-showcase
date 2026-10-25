@@ -4,6 +4,10 @@
 
 Root 커뮤니티를 발견하고 소개하는 독립 디렉터리입니다. 흩어져 있는 커뮤니티 정보를 한곳에서 살펴보고, 운영자가 자신의 공간을 더 잘 보여줄 수 있는 경험을 만들고 있습니다.
 
+### Promo video
+
+[▶ Joinyard 25초 소개 영상 보기](https://raw.githubusercontent.com/YHS-Sec/joinyard-showcase/main/media/joinyard-promo.mp4)
+
 > **Status — In development**  
 > Joinyard는 현재 개발 중입니다. 공개 서비스와 데모는 아직 제공하지 않습니다.
 
