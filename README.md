@@ -6,7 +6,7 @@ Root 커뮤니티를 발견하고 소개하는 독립 디렉터리입니다. 흩
 
 ### Promo video
 
-[▶ Joinyard 25초 소개 영상 보기](https://raw.githubusercontent.com/YHS-Sec/joinyard-showcase/main/media/joinyard-promo.mp4)
+[▶ Joinyard 25초 소개 영상 보기](https://github.com/YHS-Sec/joinyard-showcase/raw/refs/heads/main/media/joinyard-promo.mp4) · [영상 파일](./media/joinyard-promo.mp4)
 
 > **Status — In development**  
 > Joinyard는 현재 개발 중입니다. 공개 서비스와 데모는 아직 제공하지 않습니다.
