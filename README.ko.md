@@ -10,13 +10,9 @@ Joinyard는 취향에 맞는 Root 커뮤니티를 찾고, 내가 운영하는 �
 
 ## 25초로 보는 Joinyard
 
-[![Joinyard 홍보 영상 — 영어 내레이션·자막·모션그래픽](./media/joinyard-promo-v2-poster.jpg)](./media/joinyard-promo-v2-motion-voice.mp4)
+**[YouTube에서 Joinyard 홍보 영상 보기](https://youtu.be/2_Y7J0VRyHc)**
 
-**[V2 보기 — 영어 내레이션 + 모션그래픽](./media/joinyard-promo-v2-motion-voice.mp4)**
-
-25초 · 1080p · 영어 자막 · [자막 파일](./media/joinyard-promo-v2.en.srt)
-
-[V1 보기 — 배경음악 버전](./media/joinyard-promo.mp4)
+25초 · 1080p · 배경음악 버전
 
 ## 발견하고, 알리고, 꾸미세요
 

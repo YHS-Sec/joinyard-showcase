@@ -10,13 +10,9 @@ Joinyard helps you discover Root communities and get your own community found. B
 
 ## Joinyard in 25 seconds
 
-[![Watch the Joinyard promo — English narration, captions and motion graphics](./media/joinyard-promo-v2-poster.jpg)](./media/joinyard-promo-v2-motion-voice.mp4)
+**[Watch the Joinyard promo on YouTube](https://youtu.be/2_Y7J0VRyHc)**
 
-**[Watch V2 — English narration + motion graphics](./media/joinyard-promo-v2-motion-voice.mp4)**
-
-25 seconds · 1080p · English captions · [Subtitle file](./media/joinyard-promo-v2.en.srt)
-
-[Watch V1 — music-only version](./media/joinyard-promo.mp4)
+25 seconds · 1080p · Music only
 
 ## Discover. Promote. Create.
 
